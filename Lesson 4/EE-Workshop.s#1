@@ -8809,35 +8809,35 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 </instance>
 <instance part="S1" gate="G$1" x="25.4" y="15.24" smashed="yes">
 <attribute name="NAME" x="25.4" y="16.764" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="25.4" y="14.732" size="1.778" layer="96" font="vector" align="top-center" display="off"/>
+<attribute name="VALUE" x="25.4" y="14.732" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="S2" gate="G$1" x="83.82" y="17.78" smashed="yes">
 <attribute name="NAME" x="83.82" y="19.304" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="83.82" y="17.272" size="1.778" layer="96" font="vector" align="top-center" display="off"/>
+<attribute name="VALUE" x="83.82" y="17.272" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="S3" gate="G$1" x="142.24" y="20.32" smashed="yes">
 <attribute name="NAME" x="142.24" y="21.844" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="142.24" y="19.812" size="1.778" layer="96" font="vector" align="top-center" display="off"/>
+<attribute name="VALUE" x="142.24" y="19.812" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="S4" gate="G$1" x="205.74" y="20.32" smashed="yes">
 <attribute name="NAME" x="205.74" y="21.844" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="205.74" y="19.812" size="1.778" layer="96" font="vector" align="top-center" display="off"/>
+<attribute name="VALUE" x="205.74" y="19.812" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="S5" gate="G$1" x="22.86" y="-2.54" smashed="yes">
 <attribute name="NAME" x="22.86" y="-1.016" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="22.86" y="-3.048" size="1.778" layer="96" font="vector" align="top-center" display="off"/>
+<attribute name="VALUE" x="22.86" y="-3.048" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="S6" gate="G$1" x="88.9" y="0" smashed="yes">
 <attribute name="NAME" x="88.9" y="1.524" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="88.9" y="-0.508" size="1.778" layer="96" font="vector" align="top-center" display="off"/>
+<attribute name="VALUE" x="88.9" y="-0.508" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="S7" gate="G$1" x="144.78" y="2.54" smashed="yes">
 <attribute name="NAME" x="144.78" y="4.064" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="144.78" y="2.032" size="1.778" layer="96" font="vector" align="top-center" display="off"/>
+<attribute name="VALUE" x="144.78" y="2.032" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="S8" gate="G$1" x="203.2" y="0" smashed="yes">
 <attribute name="NAME" x="203.2" y="1.524" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="203.2" y="-0.508" size="1.778" layer="96" font="vector" align="top-center" display="off"/>
+<attribute name="VALUE" x="203.2" y="-0.508" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 </instances>
 <busses>
