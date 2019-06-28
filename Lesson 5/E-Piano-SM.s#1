@@ -10866,18 +10866,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </part>
 <part name="X_4" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="BATT" library="battery" library_urn="urn:adsk.eagle:library:109" deviceset="AB9V" device="" package3d_urn="urn:adsk.eagle:package:4600/1"/>
-<part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
-<spice>
-<pinmapping spiceprefix="C">
-<pinmap gate="G$1" pin="1" pinorder="1"/>
-<pinmap gate="G$1" pin="2" pinorder="2"/>
-</pinmapping>
-</spice>
-<attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="791-MT21B104K500CT"/>
-<attribute name="MPN" value="MT21B104K500CT"/>
-<attribute name="OC_NEWARK" value="unknown"/>
-</part>
 </parts>
 <sheets>
 <sheet>
@@ -11077,14 +11065,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="NAME" x="34.925" y="90.805" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="43.18" y="90.805" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="C2" gate="G$1" x="55.88" y="91.44" smashed="yes">
-<attribute name="OC_NEWARK" x="55.88" y="91.44" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="55.88" y="91.44" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="55.88" y="91.44" size="1.778" layer="96" display="off"/>
-<attribute name="NAME" x="56.896" y="92.075" size="1.778" layer="95"/>
-<attribute name="VALUE" x="56.896" y="87.249" size="1.778" layer="96"/>
-<attribute name="MOUSER#" x="55.88" y="91.44" size="1.778" layer="96" display="off"/>
-</instance>
 </instances>
 <busses>
 </busses>
@@ -11134,7 +11114,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <pinref part="U1" gate="A" pin="CV"/>
 <wire x1="71.12" y1="96.52" x2="55.88" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="96.52" x2="55.88" y2="93.98" width="0.1524" layer="91"/>
-<pinref part="C2" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$13" class="0">
@@ -11176,7 +11155,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <wire x1="60.96" y1="81.28" x2="66.04" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="60.96" y1="76.2" x2="60.96" y2="81.28" width="0.1524" layer="91"/>
 <junction x="60.96" y="81.28"/>
-<pinref part="C2" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="BATT" gate="G$1" pin="-"/>
